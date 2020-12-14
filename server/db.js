@@ -266,6 +266,7 @@ const deleteAllFromDatabase = (modelType) => {
 module.exports = {
   createMinion,
   createMeeting,
+  createWork,
   getAllFromDatabase,
   getFromDatabaseById,
   addToDatabase,
